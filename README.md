@@ -1,6 +1,7 @@
 # Vinkas UI
 
 [![](https://jitpack.io/v/com.vinkas/ui.svg)](https://jitpack.io/#com.vinkas/ui)
+[![Build Status](https://travis-ci.org/vinkas-com/ui.svg?branch=master)](https://travis-ci.org/vinkas-com/ui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 <hr />
 Custom made android UI elements for our vinkas projects
